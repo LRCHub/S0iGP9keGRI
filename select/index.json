@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おかえり劣等生",
+  "base_artist": "Broken my toybox",
+  "createdAt": "2026-02-11T03:23:13.075976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おかえり劣等生",
+      "artist": "Broken my toybox",
+      "has_synced": false,
+      "path": "select/pl_01_おかえり劣等生_Broken_my_toybox.txt"
+    }
+  ]
+}
